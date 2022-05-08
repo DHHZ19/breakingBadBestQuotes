@@ -1,0 +1,10 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main > label{
+    font-size: 100%;
+    font-weight:600
+}
